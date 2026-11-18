@@ -1,6 +1,6 @@
 # BIT 2118 Scientific Computing: Group Work (individual submission)
 
-Individual GitHub repository of **Mwas** (`mwas999-ux`) for the BIT 2118 Scientific Computing group work, Tasks 2 to 20.
+Individual GitHub repository of **Fred Mwangi (BSCCS/2024/74352)** (`mwas999-ux`) for the BIT 2118 Scientific Computing group work, Tasks 2 to 20.
 
 For every task the repository contains:
 
